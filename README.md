@@ -1,15 +1,14 @@
 <img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
 
-## 一只低调的猕猴桃—Fomalhaut🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
+## 前端工程师—Miraitowa🥑 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
 
 ### 自我介绍
 
 <div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
 
-- 大家好，我是🥝，来自广东江门
-- 目前是一名机械在读研究生
-- 对数据结构与算法、前端、Linux驱动感兴趣
+- 大家好，我是🥑，来自北京
+- 热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
 - 欢迎光临我的Github 🍧
 
 
@@ -17,9 +16,7 @@
 
 
  
-- <a href="https://www.fomal.cc"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站，访问量累计30万+
-- <a href="https://space.bilibili.com/220757832"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页，播放量10万+，粉丝累计1400+
-- <a href="https://leetcode.cn/u/fomalhaut1998/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页，粉丝累计100+
+- <a href="https://www.lzx981128.top/"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站
 
 
 ---
