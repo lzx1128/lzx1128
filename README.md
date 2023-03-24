@@ -26,7 +26,7 @@
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" /> -->
 
 <!--  skill badge 技能徽章 -->
 ### 💪 正在学习
@@ -100,14 +100,14 @@
 <!-- ### 编程语言 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzx1128&langs_count=6&theme=tokyonight) -->
 
-### Github 状态图
+<!-- ### Github 状态图
 [![](https://activity-graph.herokuapp.com/graph?username=lzx1128&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=lzx1128&show_icons=true&theme=tokyonight)
+![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=lzx1128&show_icons=true&theme=tokyonight) -->
 
-### Github 贡献图
+<!-- ### Github 贡献图
 [![fomalhaut1998's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lzx1128&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
+<br> -->
 
 
 
