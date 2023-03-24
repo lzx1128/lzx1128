@@ -20,6 +20,7 @@
 - 个人简历: <a href="https://resume.lzx981128.top/">https://resume.lzx981128.top/</a>
 - 网站收藏: <a href="https://lzx981128.github.io/">https://lzx981128.github.io/</a>
 
+---
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
