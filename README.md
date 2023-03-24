@@ -26,7 +26,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
 ![PUG](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=PUG&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
-![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)\
+![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
