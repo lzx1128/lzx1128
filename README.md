@@ -23,8 +23,8 @@
 
 
 ### 技术栈
-![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
-![PUG](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=PUG&logoColor=ffffff)
+<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
+<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
