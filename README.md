@@ -52,14 +52,14 @@
 <br> -->
 
 <!-- ### 编程语言 -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fomalhaut1998&langs_count=6&theme=tokyonight) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzx1128&langs_count=6&theme=tokyonight) -->
 
 ### Github 状态图
-[![](https://activity-graph.herokuapp.com/graph?username=fomalhaut1998&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=lzx1128&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=fomalhaut1998&show_icons=true&theme=tokyonight)
 
 ### Github 贡献图
-[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fomalhaut1998&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lzx1128&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
@@ -67,8 +67,4 @@
 
 <br>
 
-### 投喂作者🍭🍭🍭
 
-<a href="https://www.fomal.cc/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
-
-<br>
