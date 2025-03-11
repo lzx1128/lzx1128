@@ -18,7 +18,7 @@
 ### 个人主页
 
  
-- 个人博客: <a href="https://www.lzx981128.top/">https://www.lzx981128.top/</a>
+- 个人博客: <a href="https://www.cameliia.top/">https://www.cameliia.top/</a>
 - 个人简历: <a href="https://resume.lzx981128.top/">https://resume.lzx981128.top/</a>
 - 网站收藏: <a href="https://lzx981128.github.io/">https://lzx981128.github.io/</a>
 
