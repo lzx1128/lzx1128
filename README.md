@@ -5,8 +5,6 @@
 
 ### 自我介绍
 
-<div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
-
 - 大家好，我是Miraitowa🥑
 - 欢迎光临我的Github 🍧
 - 热爱计算机科学和IT互联网事业，励志成为一名资深程序员!
