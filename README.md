@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d0221,30:0a0a2e,60:1a0533,100:0d1b2a&text=Miraitowa%20🥑&fontSize=68&fontColor=e8f4fd&animation=fadeIn&fontAlignY=40&desc=Frontend%20Engineer%20%7C%20Creative%20Developer&descSize=22&descAlignY=60&descColor=7dd3fc&stroke=58a6ff&strokeWidth=1"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0221,40:0a1628,70:0d2137,100:1a3a4a&text=Miraitowa%20%F0%9F%A5%91&fontSize=68&fontColor=e8f4fd&animation=fadeIn&fontAlignY=42&desc=Frontend%20Engineer%20%7C%20Creative%20Developer&descSize=22&descAlignY=62&descColor=7dd3fc"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+Frontend+Engineer+%7C+Creative+Builder;⚡+Vue+3+%7C+React+%7C+TypeScript+%7C+Node.js;🎨+UI+Design+%7C+Creative+Coding+%7C+3D+Web;🌌+Exploring+AI+%2B+Web+%7C+Full+Stack;✨+Keep+Building%2C+Keep+Growing"/>
+  <img src="https://readme-typing-svg.vercel.app/api?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+Frontend+Engineer+%7C+Creative+Builder;⚡+Vue+3+%7C+React+%7C+TypeScript+%7C+Node.js;🎨+UI+Design+%7C+Creative+Coding+%7C+3D+Web;🌌+Exploring+AI+%2B+Web+%7C+Full+Stack;✨+Keep+Building%2C+Keep+Growing"/>
 </div>
 
 <br/>
