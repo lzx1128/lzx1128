@@ -3,17 +3,12 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Miraitowa🥑&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Creative%20Developer&descAlignY=58"/>
 </p>
 
-<!-- 打字机 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Engineer+💻;Vue+%7C+React+%7C+TypeScript;Creative+Coding+%26+UI+Design;Keep+Learning+Keep+Growing+🚀"/>
-</p>
-
 <!-- 徽章 -->
-<!-- <p align="center">
+ <p align="center">
   <img src="https://img.shields.io/github/followers/lzx1128?style=for-the-badge&logo=github&color=0891b2"/>
   <img src="https://img.shields.io/github/stars/lzx1128?style=for-the-badge&logo=github&color=f59e0b"/>
   <img src="https://komarev.com/ghpvc/?username=lzx1128&style=for-the-badge&color=6366f1"/>
-</p> -->
+</p>
 
 ---
 
