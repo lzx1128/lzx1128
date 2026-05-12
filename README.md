@@ -1,10 +1,196 @@
+<!-- 顶部动态波浪 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Miraitowa🥑&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Creative%20Developer&descAlignY=58"/>
+
 <div align="center">
 
-# Hi there 👋 I'm Miraitowa 🥑
+<!-- 动态打字 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=750&lines=Frontend+Engineer+💻;Vue+%7C+React+%7C+TypeScript;Love+Design+%26+Creative+Coding;Keep+Learning+Keep+Growing+🚀" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Engineer;Vue+%7C+React+%7C+TypeScript;Love+Open+Source+and+Creative+Coding;Keep+Learning+Keep+Growing" />
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20To%20My%20Github&fontSize=42&fontAlignY=35&color=gradient" />
+<!-- 徽章 -->
+<img src="https://img.shields.io/github/followers/lzx1128?style=for-the-badge&logo=github&color=0891b2"/>
+<img src="https://img.shields.io/github/stars/lzx1128?style=for-the-badge&logo=github&color=f59e0b"/>
+<img src="https://komarev.com/ghpvc/?username=lzx1128&style=for-the-badge&color=6366f1"/>
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+```yaml
+name: Miraitowa
+role: Frontend Engineer
+
+focus:
+  - Vue / React
+  - UI Design
+  - TypeScript
+  - Node.js
+  - Creative Development
+
+learning:
+  - Full Stack
+  - Three.js
+  - AI + Web
+  - Architecture
+
+motto: "长风破浪会有时，直挂云帆济沧海。"
+```
+
+<br/>
+
+---
+
+# 🌐 Personal Links
+
+<div align="center">
+
+<a href="https://www.lzx981128.top/">
+  <img src="https://img.shields.io/badge/🌍%20Blog-Personal%20Website-111827?style=for-the-badge">
+</a>
+
+<a href="https://resume.lzx981128.top/">
+  <img src="https://img.shields.io/badge/📄%20Resume-Online%20CV-059669?style=for-the-badge">
+</a>
+
+<a href="https://lzx981128.github.io/">
+  <img src="https://img.shields.io/badge/📚%20Bookmarks-Tech%20Collection-f97316?style=for-the-badge">
+</a>
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,nodejs,vite,webpack,pinia,redux,java,spring,mysql,mongodb,docker,nginx,aws,git,github,vscode,idea,linux&theme=dark"/>
+
+</div>
+
+---
+
+# 🚀 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=threejs,nextjs,nestjs,kubernetes,python,django,cpp,c,qt,flutter&theme=dark"/>
+
+</div>
+
+---
+
+# 📊 Github Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lzx1128&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzx1128&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lzx1128&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lzx1128&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🛠 Development Environment
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/System-Windows-0078D6?style=for-the-badge&logo=windows"/>
+<img src="https://img.shields.io/badge/System-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Design-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop"/>
+<img src="https://img.shields.io/badge/Device-Xiaomi-FF6900?style=for-the-badge&logo=xiaomi"/>
+<img src="https://img.shields.io/badge/Laptop-Lenovo-E2231A?style=for-the-badge&logo=lenovo"/>
+
+</div>
+
+---
+
+# ✨ Coding Animation
+
+<div align="center">
+
+<img width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+<img width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌌 3D Tech Universe
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lzx1128&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 💻 Weekly Coding Time
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lzx1128&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎵 Spotify / Coding Music
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31tm5nm4j6vby2l5x6l2x3v6n4ya&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+
+</div>
+
+---
+
+# ☄️ Visitor Counter
+
+<div align="center">
+
+<img src="https://count.getloli.com/get/@lzx1128?theme=rule34"/>
 
 </div>
 
@@ -12,156 +198,10 @@
 
 <div align="center">
 
-### 🌟 关于我
+### 💫 “努力一定会有收获，一枚学渣正在悄悄蜕变...”
 
-💻 热爱前端开发与互联网技术  
-🚀 正在朝着全栈 / 高级工程师方向努力  
-🌱 持续学习 Vue、React、Node.js、Three.js 等技术  
-🎯 喜欢折腾各种有趣项目与 UI 效果  
-✨ 相信坚持与热爱一定会带来成长  
+<br/>
 
-> 长风破浪会有时，直挂云帆济沧海。
-
-</div>
-
----
-
-# 🚀 个人主页
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Blog-cameliia.top-000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.lzx981128.top/)
-[![Resume](https://img.shields.io/badge/Resume-Online-4FC08D?style=for-the-badge&logo=ReadCV&logoColor=white)](https://resume.lzx981128.top/)
-[![Bookmarks](https://img.shields.io/badge/Bookmarks-Collection-orange?style=for-the-badge&logo=bookstack&logoColor=white)](https://lzx981128.github.io/)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="220"/>
-
-</div>
-
-# 💪 正在学习
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![ThreeJS](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-
-</div>
-
----
-
-# 🧠 计划学习
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-</div>
-
----
-
-# 🛠 常用工具
-
-<div align="center">
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-
-</div>
-
----
-
-# ⚡ 技术栈
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,vite,webpack,java,python,mysql,mongodb,docker,nginx,git,github,vscode,idea,linux" />
-
-</div>
-
----
-
-# 📊 Github 数据统计
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lzx1128&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzx1128&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 Github 活跃图
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lzx1128&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🎵 Coding Status
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lzx1128&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-# ✨ Visitor Count
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lzx1128&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-<div align="center">
-
-<img height="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 Thanks for visiting my profile ❤️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
