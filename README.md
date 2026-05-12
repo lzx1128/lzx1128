@@ -1,174 +1,255 @@
-<!-- 顶部 Banner -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Miraitowa🥑&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Creative%20Developer&descAlignY=58"/>
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d0221,30:0a0a2e,60:1a0533,100:0d1b2a&text=Miraitowa%20🥑&fontSize=68&fontColor=e8f4fd&animation=fadeIn&fontAlignY=40&desc=Frontend%20Engineer%20%7C%20Creative%20Developer&descSize=22&descAlignY=60&descColor=7dd3fc&stroke=58a6ff&strokeWidth=1"/>
+</div>
 
-<!-- 徽章 -->
- <p align="center">
-  <img src="https://img.shields.io/github/followers/lzx1128?style=for-the-badge&logo=github&color=0891b2"/>
-  <img src="https://img.shields.io/github/stars/lzx1128?style=for-the-badge&logo=github&color=f59e0b"/>
-  <img src="https://komarev.com/ghpvc/?username=lzx1128&style=for-the-badge&color=6366f1"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+Frontend+Engineer+%7C+Creative+Builder;⚡+Vue+3+%7C+React+%7C+TypeScript+%7C+Node.js;🎨+UI+Design+%7C+Creative+Coding+%7C+3D+Web;🌌+Exploring+AI+%2B+Web+%7C+Full+Stack;✨+Keep+Building%2C+Keep+Growing"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend_Engineering-58a6ff?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-3fb950?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mood-Always_Learning-f78166?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=lzx1128&style=flat-square&color=58a6ff&label=Visitors&labelColor=0d1117"/>
+</div>
+
+<br/>
 
 ---
 
-# 👨‍💻 About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:58a6ff,100:0d1117&section=header"/>
+</div>
 
-<table>
+<br/>
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> &nbsp; About Me
+
+<br/>
+
+<table align="center" width="96%">
 <tr>
-<td width="58%">
+<td width="55%" valign="top">
 
 ```yaml
-name: Miraitowa
-role: Frontend Engineer
+# /etc/profile.d/miraitowa.yaml
+─────────────────────────────────────
+  whoami   : Miraitowa
+  role     : Frontend Engineer
+  location : China 🇨🇳
+─────────────────────────────────────
+  tech_core:
+    - Vue 3 / React 18
+    - TypeScript / JavaScript
+    - Node.js / Vite / Webpack
+    - UI Design / Tailwind CSS
 
-focus:
-  - Vue / React
-  - TypeScript
-  - Node.js
-  - UI Design
-  - Creative Coding
+  currently_learning:
+    - Three.js & WebGL
+    - Next.js / NestJS
+    - AI + Web Integration
+    - System Architecture
 
-learning:
-  - Three.js
-  - Full Stack
-  - AI + Web
-  - Architecture
-
-motto:
-  "长风破浪会有时，直挂云帆济沧海。"
+  beyond_code:
+    - Open Source Enthusiast
+    - UI/UX Aesthetics Lover
+    - Lifelong Learner
+─────────────────────────────────────
+  motto: |
+    "长风破浪会有时，
+     直挂云帆济沧海。"
+─────────────────────────────────────
 ```
 
 </td>
+<td width="45%" align="center" valign="middle">
 
-<td width="42%">
+<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 12px;"/>
 
-<p align="center">
-  <img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-</p>
+<br/><br/>
+
+<div align="center">
+  <a href="https://www.lzx981128.top/" target="_blank">
+    <img src="https://img.shields.io/badge/🌍_Blog-Visit_Now-0891b2?style=for-the-badge&labelColor=0d1117&color=0891b2"/>
+  </a>
+  <br/><br/>
+  <a href="https://resume.lzx981128.top/" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Resume-View_CV-059669?style=for-the-badge&labelColor=0d1117&color=059669"/>
+  </a>
+  <br/><br/>
+  <a href="https://lzx981128.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/📚_Bookmarks-Tech_Picks-7c3aed?style=for-the-badge&labelColor=0d1117&color=7c3aed"/>
+  </a>
+</div>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-# 🌐 Personal Links
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:58a6ff,100:0d1117"/>
+</div>
 
-<p align="center">
-  <a href="https://www.lzx981128.top/">
-    <img src="https://img.shields.io/badge/🌍%20Blog-Personal%20Website-111827?style=for-the-badge"/>
-  </a>
+<br/>
 
-  <a href="https://resume.lzx981128.top/">
-    <img src="https://img.shields.io/badge/📄%20Resume-Online%20CV-059669?style=for-the-badge"/>
-  </a>
+## ⚡ &nbsp; Tech Stack
 
-  <a href="https://lzx981128.github.io/">
-    <img src="https://img.shields.io/badge/📚%20Bookmarks-Tech%20Collection-f97316?style=for-the-badge"/>
-  </a>
-</p>
+<br/>
 
----
+<div align="center">
 
-# ⚡ Tech Stack
+**Frontend**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,nodejs,vite,webpack,pinia,redux,java,spring,mysql,mongodb,docker,nginx,aws,git,github,vscode,idea,linux&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,vite,webpack,tailwind,pinia,redux&theme=dark&perline=12"/>
 
----
+<br/><br/>
 
-# 🚀 Currently Learning
+**Backend & Database**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=threejs,nextjs,nestjs,kubernetes,python,django,cpp,c,qt,flutter&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,mysql,mongodb,redis,nginx,docker&theme=dark&perline=12"/>
 
----
+<br/><br/>
 
-# 🔥 Contribution Graph
+**DevOps & Tools**
 
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=lzx1128&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,linux,vscode,idea,figma,ps&theme=dark&perline=12"/>
 
----
+<br/><br/>
 
-# 🏆 Achievements
+**Exploring**
 
-<p align="center">
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=lzx1128&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
+<img src="https://skillicons.dev/icons?i=threejs,nextjs,nestjs,kubernetes,python,flutter,cpp,qt&theme=dark&perline=12"/>
 
----
+</div>
 
-# 💻 Development Environment
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System-Windows-0078D6?style=for-the-badge&logo=windows"/>
-  <img src="https://img.shields.io/badge/System-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:58a6ff,100:0d1117"/>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Design-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop"/>
-  <img src="https://img.shields.io/badge/Device-Xiaomi-FF6900?style=for-the-badge&logo=xiaomi"/>
-  <img src="https://img.shields.io/badge/Laptop-Lenovo-E2231A?style=for-the-badge&logo=lenovo"/>
-</p>
+<br/>
 
----
+## 📊 &nbsp; GitHub Analytics
 
-# ✨ Coding Animation
+<br/>
 
-<p align="center">
-  <img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-  <img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lzx1128&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&count_private=true&include_all_commits=true"/>
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzx1128&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
+</div>
 
----
+<br/>
 
-# 🐍 Contribution Snake
+<div align="center">
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=lzx1128&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&border_radius=10"/>
+</div>
 
-<p align="center">
-  <img width="96%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:58a6ff,100:0d1117"/>
+</div>
 
-# 🌌 Profile Summary
+<br/>
 
-<p align="center">
+## 🏆 &nbsp; Achievements
+
+<br/>
+
+<div align="center">
+  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=lzx1128&theme=tokyonight&row=1&column=7&margin-w=12&margin-h=12&no-frame=true&no-bg=true"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:58a6ff,100:0d1117"/>
+</div>
+
+<br/>
+
+## 🔥 &nbsp; Contribution Activity
+
+<br/>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=lzx1128&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&color=58a6ff&line=58a6ff&point=ffffff&bg_color=0d1117&radius=8"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:58a6ff,100:0d1117"/>
+</div>
+
+<br/>
+
+## 🌌 &nbsp; Profile Summary
+
+<br/>
+
+<div align="center">
   <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lzx1128&theme=tokyonight"/>
-</p>
+</div>
 
----
+<br/>
 
-# 📈 Streak Stats
+<div align="center">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lzx1128&theme=tokyonight"/>
+  &nbsp;
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lzx1128&theme=tokyonight"/>
+</div>
 
-<p align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=lzx1128&theme=tokyonight&hide_border=true"/>
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:58a6ff,100:0d1117"/>
+</div>
 
-# ☄️ Visitor Counter
+<br/>
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@lzx1128?theme=rule34"/>
-</p>
+## 🐍 &nbsp; Contribution Snake
 
----
+<br/>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
-</p>
+<div align="center">
+  <img width="96%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
-<p align="center">
+<br/>
 
-### 💫 努力一定会有收获，一枚学渣正在悄悄蜕变...
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:58a6ff,100:0d1117"/>
+</div>
 
-</p>
+<br/>
+
+## 💻 &nbsp; Environment
+
+<br/>
+
+<div align="center">
+
+| Category | Tools |
+|:---:|:---|
+| **Editor** | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) &nbsp; ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) |
+| **OS** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) &nbsp; ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Design** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) &nbsp; ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Device** | ![Xiaomi](https://img.shields.io/badge/Xiaomi-FF6900?style=flat-square&logo=xiaomi&logoColor=white) &nbsp; ![Lenovo](https://img.shields.io/badge/Lenovo-E2231A?style=flat-square&logo=lenovo&logoColor=white) |
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=160&section=footer&color=0:0d0221,30:0a0a2e,60:1a0533,100:0d1b2a&fontColor=7dd3fc&fontSize=18&text=💫%20努力一定会有收获，一枚学渣正在悄悄蜕变...&animation=twinkling&descColor=58a6ff"/>
+</div>
