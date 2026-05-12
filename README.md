@@ -9,11 +9,11 @@
 </p>
 
 <!-- 徽章 -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/github/followers/lzx1128?style=for-the-badge&logo=github&color=0891b2"/>
   <img src="https://img.shields.io/github/stars/lzx1128?style=for-the-badge&logo=github&color=f59e0b"/>
   <img src="https://komarev.com/ghpvc/?username=lzx1128&style=for-the-badge&color=6366f1"/>
-</p>
+</p> -->
 
 ---
 
@@ -88,15 +88,6 @@ motto:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=threejs,nextjs,nestjs,kubernetes,python,django,cpp,c,qt,flutter&theme=dark"/>
-</p>
-
----
-
-# 📊 Github Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lzx1128&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzx1128&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
 
 ---
