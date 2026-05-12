@@ -1,6 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
 
 ## 前端工程师—Miraitowa🥑 
+<!-- <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />  -->
+
 
 ### 自我介绍
 
@@ -11,11 +13,20 @@
 - 热爱计算机科学和IT互联网事业，励志成为一名资深程序员!
 - 长风破浪会有时，直挂云帆济沧海。努力一定会有收获，一枚学渣正在悄悄蜕变...
 
+
+
 ### 个人主页
 
+ 
 - 个人网站: <a href="https://www.lzx981128.top/">https://www.lzx981128.top/</a>
 - 个人简历: <a href="https://resume.lzx981128.top/">https://resume.lzx981128.top/</a>
 - 网站收藏: <a href="https://lzx981128.github.io/">https://lzx981128.github.io/</a>
+
+
+
+
+
+
 ---
 
 <!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> -->
